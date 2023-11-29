@@ -10,4 +10,4 @@
 - 💬 Ask me about linux,cybersecurity,computer-networking
 - 📫 How to reach me: www.linkedin.com/in/manthan67323
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anorak001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anorak001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
