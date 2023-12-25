@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cybersecurity,**
 
-- 💬 Ask me about **linux,python**
+- 💬 Ask me about **Linux, Python, Cybersecurity**
 
 - 📫 How to reach me **darkcode673@gmail.com**
 
