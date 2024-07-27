@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Proxy-chain Automation WebApp](https://github.com/Anorak001/PConT)
 
-- 🌱 I’m currently learning **Flask,Burpsuite,C#**
+- 🌱 I’m currently learning **Flask, Burpsuite, C#**
 
 - 👯 I’m looking to collaborate on [Keylogger Detection System](https://github.com/Anorak001/Keylogger_Detection_System)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles  [here](https://anorak001.github.io/)
 
-- 💬 Ask me about **C,Python,Metasploit,Linux**
+- 💬 Ask me about **C, Python, Metasploit, Linux**
 
 - 📫 Mail me [Here]( mailto:manthan57673@gmail.com)
 
