@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with [Python Based IRC Client(GUI)](https://github.com/Anorak001/PYIRC)
 
-- 📝 I regularly write articles on [https://anorak001.github.io/](https://anorak001.github.io/)
+- 📝 I regularly write articles  [here](https://anorak001.github.io/)
 
 - 💬 Ask me about **C,Python,Metasploit,Linux**
 
-- 📫 How to reach me **manthan57673@gmail.com**
+- 📫 Mail me Here **manthan57673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
