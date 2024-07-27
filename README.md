@@ -1,6 +1,6 @@
-<img src='README_Banner.png' alt="banner"></img>
+<center><img src='README_Banner.png' alt="banner"></img>
 
-# Hi, I am <a href = "https://anorak001.github.io/">Manthan</a>. Nice to see you here 👋
+# Hi, I am <a href = "https://anorak001.github.io/">Manthan</a>. Nice to see you here 👋</center>
 
 <h3 align="center">A passionate Cybersecurity Researcher</h3>
 
