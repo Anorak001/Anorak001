@@ -1,20 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&size=30&duration=1900&pause=400&color=00FF00&vCenter=true&width=700&lines=Hi+There!%F0%9F%91%8B;I'm+MANTHAN+R+M%2C;Ethical+Hacker+%26+Security+Researcher)](https://git.io/typing-svg)
 -------
- 📝 I regularly write articles  [here](https://anorak001.github.io/)
- 
- 🔭 I’m currently working on [Proxy-chain Automation WebApp](https://github.com/Anorak001/PConT)
+📝 <span style="color:#00FF00;">I regularly write articles [here](https://anorak001.github.io/)</span>
 
- 🌱 I’m currently learning **Flask, Burpsuite, C#**
+🔭 <span style="color:#00FF00;">I’m currently working on [Proxy-chain Automation WebApp](https://github.com/Anorak001/PConT)</span>
 
- 👯 I’m looking to collaborate on [Keylogger Detection System](https://github.com/Anorak001/Keylogger_Detection_System)
+🌱 <span style="color:#00FF00;">I’m currently learning **Flask, Burpsuite, C#**</span>
 
- 🤝 I’m looking for help with [Python Based IRC Client(GUI)](https://github.com/Anorak001/PYIRC)
+👯 <span style="color:#00FF00;">I’m looking to collaborate on [Keylogger Detection System](https://github.com/Anorak001/Keylogger_Detection_System)</span>
 
+🤝 <span style="color:#00FF00;">I’m looking for help with [Python Based IRC Client(GUI)](https://github.com/Anorak001/PYIRC)</span>
 
+💬 <span style="color:#00FF00;">Ask me about **C, Python, Metasploit, Linux**</span>
 
- 💬 Ask me about **C, Python, Metasploit, Linux**
-
- 📫 Mail me [Here]( mailto:manthan57673@gmail.com)
+📫 <span style="color:#00FF00;">Mail me [Here](mailto:manthan57673@gmail.com)</span>
 
   ![](https://visitcount.itsvg.in/api?id=Anorak001&label=Profile%20Views&color=8&icon=4&pretty=true)
      
