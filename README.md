@@ -24,10 +24,6 @@
 <a href="https://linkedin.com/in/manthan67323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan67323" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/manthan-r-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manthan-r-m" height="30" width="40" /></a> 
 <a href="https://medium.com/@darkcode673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darkcode673" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darkcode673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darkcode673" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/darkcode6731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darkcode6731" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/port_sweep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="port_sweep" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codeslae98n/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codeslae98n/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/darksouls001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="darksouls001" height="30" width="40" /></a>
 </p>
 
