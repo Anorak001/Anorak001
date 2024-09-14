@@ -2,7 +2,7 @@
 -------
 📝 <span style="color:#00FF00;">I regularly write articles [here](https://anorak001.github.io/)</span>
 
-🔭 <span style="color:#00FF00;">I’m currently working on [Proxy-chain Automation WebApp](https://github.com/Anorak001/PConT)</span>
+🔭 <span style="color:#00FF00;">I’m currently working on [Proxy-chain Automation Tool](https://github.com/Anorak001/PConT)</span>
 
 🌱 <span style="color:#00FF00;">I’m currently learning **Flask, Burpsuite, C#**</span>
 
