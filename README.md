@@ -16,8 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/legitcode_673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="legitcode_673" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manthan67323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan67323" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23473994/manthan-r-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manthan-r-m" height="30" width="40" /></a> 
-
 </p>
 
 -------
