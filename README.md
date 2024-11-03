@@ -6,7 +6,7 @@
 
 💬 <span style="color:#00FF00;">Ask me about **C, Python, Metasploit, Linux**</span>
 
-📫 <span style="color:#00FF00;">Mail me [Here](mailto:manthan57673@gmail.com)</span>
+📫 <span style="color:#00FF00;">Mail me   [Here](mailto:Anorak57342@protonmail.com)</span>
 
   ![](https://visitcount.itsvg.in/api?id=Anorak001&label=Profile%20Views&color=8&icon=4&pretty=true)
      
