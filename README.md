@@ -6,31 +6,14 @@
 
 📝 <span style="color:#00FF00;">I regularly write articles [here](https://anorak001.github.io/)</span>
 
-🌱 <span style="color:#00FF00;">I’m currently learning **Flask, Burpsuite, C#**</span>
+🌱 <span style="color:#00FF00;">I’m currently learning **ASM, C#**</span>
 
-💬 <span style="color:#00FF00;">Ask me about **C, Python, Metasploit, Linux**</span>
+💬 <span style="color:#00FF00;">Ask me about **C, Python, Cybersecurity , Malware Analysis, Linux**</span>
 
 📫 <span style="color:#00FF00;">Mail me   [Here](mailto:Anorak57342@protonmail.com)</span>
 
-  ![](https://visitcount.itsvg.in/api?id=Anorak001&label=Profile%20Views&color=8&icon=4&pretty=true)
-     
--------
+🌐 <span style="color:#00FF00;">Connect with me on Linkedin [Here](https://www.linkedin.com/in/manthan67323)</span>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/legitcode_673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="legitcode_673" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manthan67323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manthan67323" height="30" width="40" /></a>
-</p>
+𝕏 <span style="color:#00FF00;">Follow me on Twitter [Here](https://www.linkedin.com/in/manthan67323)</span>
 
 
-
-### 📊 GitHub Stats:
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anorak001&theme=tokyonight&hide_border=true)<br/>
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anorak001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
--------
