@@ -13,7 +13,6 @@
 🌐 <span style="color:#00FF00;">Connect with me on Linkedin [Here](https://www.linkedin.com/in/manthan67323)</span>
 
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-GitHub-%23ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Anorak001)
 <a href="https://github.com/404">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
 </a>
