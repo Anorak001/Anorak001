@@ -4,7 +4,7 @@
 
 📝 <span style="color:#00FF00;">I regularly write articles [here](https://anorak001.github.io/)</span>
 
-🌱 <span style="color:#00FF00;">I’m currently learning **ASM, C#**</span>
+🌱 <span style="color:#00FF00;">I’m currently learning **ASM, CPP**</span>
 
 💬 <span style="color:#00FF00;">Ask me about **C, Python, Cybersecurity , Malware Analysis, Linux**</span>
 
