@@ -16,5 +16,4 @@
 <a href="https://github.com/404">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GitHub Profile">
 </a>
-
-[![An image of @darksouls673's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darksouls673)](https://holopin.io/@darksouls673)
+ 
